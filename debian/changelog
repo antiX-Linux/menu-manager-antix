@@ -1,0 +1,14 @@
+menu-manager-antix (0.1.1) unstable; urgency=low 
+ 
+  * Replace status of "Malformed" with a more detailed description to improve clarity of message
+  * Prevent possibility of GenericName field being collected from .desktop file instead of Name field
+
+ -- anticapitalista <antiX@operamail.com>  Wed, 24 Jun 2015 22:27:00 +0200
+
+
+menu-manager-antix (0.1.0) unstable; urgency=low 
+ 
+  * Initial Release.
+
+ -- anticapitalista <antiX@operamail.com>  Fri, 24 Apr 2015 23:29:00 +0200
+

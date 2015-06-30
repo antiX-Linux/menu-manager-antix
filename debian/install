@@ -1,0 +1,5 @@
+changelog.gz            /usr/share/doc/menu-manager-antix
+copyright               /usr/share/doc/menu-manager-antix
+bin/*                   /usr/local/bin
+icon/*                  /usr/share/pixmaps
+menu_manager.desktop    /usr/share/applications/antix

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Menu Manager
+Comment=Control which items are displayed in the applications and personal sections of the main menu
+Exec=sudo menu_manager.sh
+Icon=menu_manager.png
+Terminal=False
+Type=Application
+Categories=Settings;
+NoDisplay=False

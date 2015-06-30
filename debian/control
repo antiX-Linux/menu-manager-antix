@@ -1,0 +1,11 @@
+Source: menu-manager-antix
+Section: system
+Priority: optional
+Maintainer: anticapitalista <antiX@operamail.com>
+Build-Depends: debhelper (>= 9.20120115)
+Standards-Version: 3.9.4
+Homepage: http://antix.mepis.org
+
+Package: menu-manager-antix
+Architecture: all
+Description: User friendly front-end to the xdg-utils mechanism for antiX-15
